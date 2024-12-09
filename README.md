@@ -56,8 +56,8 @@ If an error occurs in processing the image or prediction, the response will retu
 ## Instalasi
 1. Clone repositori:
 ```bash
-git clone <repository_url>
-cd dentifycare-ml-api
+git clone https://github.com/Dentifycare/Dentifycare-ML-API.git
+cd Dentifycare-ML-API
 ```
 2. Install dependencies:
 ```bash
