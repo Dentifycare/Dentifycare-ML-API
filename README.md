@@ -67,7 +67,6 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --host 0.0.0.0 --port 8080
 ```
-The application is now accessible via 
 
 ---
 
@@ -89,8 +88,6 @@ docker build -t dentifycare-ml-api .
 ```bash
 docker run -d -p 8080:8080 dentifycare-ml-api
 ```
-The application is now accessible via 
-
 ---
 
 ## Link Model
